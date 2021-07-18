@@ -1,0 +1,136 @@
+body{
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+h3{
+  font-weight: 800;
+}
+
+#title{
+  background-color: #232449;
+}
+
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+
+.big-line{
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #fff;
+}
+
+/* Navigation Bar */
+
+.navbar{
+  padding: 0 0 4.5rem;
+  color: #fff;
+}
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+/* Title */
+.sub-big-line{
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 1.2rem;
+  color: #fff;
+  line-height: 1.5;
+  padding-top: 50px;
+}
+
+.title-para{
+  text-align: left;
+  padding-bottom: 30px;
+}
+
+.title-img{
+  width: 100%;
+  padding-bottom: 30px;
+}
+
+.brand-img{
+  width: 20%;
+  padding-right: 35px;
+}
+
+.disney-img{
+  width: 25%;
+}
+
+.brands{
+  padding-bottom: 50px;
+}
+
+/* Features */
+
+#features{
+  padding: 7% 15%;
+  background-color: #fff;
+}
+
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+
+.icon{
+  color: #232449;
+  margin-bottom: 1rem;
+}
+
+.icon:hover{
+  color: #676BD6;
+  margin-bottom: 1rem;
+}
+
+/* Feedbacks */
+#feedbacks{
+  background-color: #242526;
+  color: #fff;
+  height: 475px;
+  text-align: center;
+  position: static;
+}
+
+.feedback-title{
+  padding-top: 2.5rem;
+  font-weight: 900;
+}
+
+.feeds{
+  padding: 50px 50px 0 0;
+}
+
+.carousel-item{
+  padding: 7% 10%;
+}
+
+/* Customers Sections */
+#customers{
+  background: #242526;
+  color: #fff;
+  padding-bottom: 4rem;
+}
+
+.customer-number{
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 3.5rem;
+}
+
+.year{
+  font-weight: lighter;
+  font-family: "Montserrat";
+}
