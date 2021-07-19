@@ -1,6 +1,5 @@
 body{
   font-family: "Montserrat";
-  text-align: center;
 }
 
 h3{
@@ -100,7 +99,6 @@ h3{
   color: #fff;
   height: 475px;
   text-align: center;
-  position: static;
 }
 
 .feedback-title{
@@ -116,11 +114,16 @@ h3{
   padding: 7% 10%;
 }
 
+.ifram-item{
+  width: 80%;
+}
+
 /* Customers Sections */
 #customers{
   background: #242526;
   color: #fff;
   padding-bottom: 4rem;
+  text-align: center;
 }
 
 .customer-number{
@@ -129,7 +132,30 @@ h3{
   font-size: 3.5rem;
 }
 
-.year{
+.customer-para{
   font-weight: lighter;
   font-family: "Montserrat";
+}
+
+/* Pricing Section */
+#pricing{
+  padding: 7% 15%;
+  text-align: center;
+  line-height: 2;
+}
+
+.brand-logo{
+  width: 30%;
+}
+
+.pricing-column{
+  padding: 3% 2%;
+  line-height: 1.5;
+}
+
+/* Media Queries */
+@@media (max-width:1028px) {
+  #title{
+    text-align: center;
+  }
 }
