@@ -39,6 +39,14 @@ h3{
   padding: 0 18px;
 }
 
+.nav-link{
+  font-weight: 600;
+}
+
+.nav-link:hover{
+  font-weight: 600;
+}
+
 /* Title */
 .sub-big-line{
   font-family: "Montserrat";
@@ -156,6 +164,21 @@ h3{
   line-height: 1.5;
 }
 
+.product-details{
+  font-weight: bold;
+}
+
+.signup-anc{
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.signup-anc:hover{
+  font-weight: bold;
+  color: #FFF;
+  text-decoration: none;
+}
+
 .brand-section{
   padding-bottom: 2rem;
 }
@@ -206,11 +229,6 @@ h3{
 .f-btn:hover{
   background-color:#00a8e1;
   border: 0;
-}
-
-.cta-link{
-  color: #232449;
-  text-decoration: none;
 }
 
 .cta-link:hover{
