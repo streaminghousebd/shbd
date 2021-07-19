@@ -122,6 +122,7 @@ h3{
 #customers{
   background: #242526;
   color: #fff;
+  padding-top: 2rem;
   padding-bottom: 4rem;
   text-align: center;
 }
@@ -145,12 +146,93 @@ h3{
 }
 
 .brand-logo{
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
   width: 30%;
 }
 
 .pricing-column{
   padding: 3% 2%;
   line-height: 1.5;
+}
+
+.brand-section{
+  padding-bottom: 2rem;
+}
+
+.more-brand-logo{
+  width: 20%;
+  margin: 4.5%;
+}
+
+.more-brand-disney-logo{
+  width: 20%;
+  margin: 2%
+}
+
+.divider{
+  padding-bottom: 2rem;
+}
+
+.more-brand{
+  padding-bottom: 0;
+}
+
+.more-brand-title{
+  font-weight: 900;
+  margin-bottom: 20px;
+}
+
+/* CTA Section */
+#cta{
+  background-color: #232449;
+  color: #FFF;
+  padding: 7% 17%;
+  text-align: center;
+  line-height: 2;
+}
+
+.cta-title{
+  font-weight: 900;
+}
+
+.f-btn{
+  font-family: "Montserrat";
+  font-weight: 300;
+  border: 0;
+  margin: 1rem;
+}
+
+.f-btn:hover{
+  background-color:#00a8e1;
+  border: 0;
+}
+
+.cta-link{
+  color: #232449;
+  text-decoration: none;
+}
+
+.cta-link:hover{
+  color: #232449;
+  text-decoration: none;
+}
+
+/* Footer Section */
+
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.footer-icon{
+  color: #232449;
+  margin: 20px 10px;
+}
+
+.footer-icon:hover{
+  color: #00a8e1;
+  margin: 20px 10px;
 }
 
 /* Media Queries */
