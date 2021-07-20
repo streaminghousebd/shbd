@@ -165,6 +165,7 @@ h3{
 }
 
 .product-details{
+  font-size: 1.25rem;
   font-weight: bold;
 }
 
@@ -251,6 +252,10 @@ h3{
 .footer-icon:hover{
   color: #00a8e1;
   margin: 20px 10px;
+}
+
+.messenger{
+  width: 5%;
 }
 
 /* Media Queries */
