@@ -7,9 +7,9 @@ h3{
 }
 
 #title{
-  background-color: #232449;
+  background-color: #0C0D39;
 }
-
+/*#232449*/
 .container-fluid{
   padding: 3% 15% 7%;
 }
@@ -92,7 +92,7 @@ h3{
 }
 
 .icon{
-  color: #232449;
+  color: #0C0D39;
   margin-bottom: 1rem;
 }
 
@@ -209,7 +209,7 @@ h3{
 
 /* CTA Section */
 #cta{
-  background-color: #232449;
+  background-color: #0C0D39;
   color: #FFF;
   padding: 7% 17%;
   text-align: center;
@@ -233,7 +233,7 @@ h3{
 }
 
 .cta-link:hover{
-  color: #232449;
+  color: #0C0D39;
   text-decoration: none;
 }
 
@@ -245,7 +245,7 @@ h3{
 }
 
 .footer-icon{
-  color: #232449;
+  color: #0C0D39;
   margin: 20px 10px;
 }
 
@@ -254,7 +254,7 @@ h3{
   margin: 20px 10px;
 }
 
-.messenger{
+.fb-chat{
   width: 15%;
 }
 
